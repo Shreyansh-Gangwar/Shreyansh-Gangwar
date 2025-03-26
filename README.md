@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Shreyansh-Gangwar
-- 👀 I’m interested in: Money 🤑💸
+- 👀 I’m interested in: Physics
 - 🌱 I’m currently learning: Flutter
 - 💞️ I’m looking to collaborate on: Flutter Dev
 - 📫 How to reach me: mail at shrxx.acc@gmail.com
-- 😄 Pronouns: Man 🗿💪
 
 <!---
 Shreyansh-Gangwar/Shreyansh-Gangwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
