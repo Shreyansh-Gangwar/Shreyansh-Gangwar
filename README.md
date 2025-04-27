@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreyansh-Gangwar
-- 👀 I’m interested in: Physics
+- 👾 I’m interested in: Physics
 - 🌱 I’m currently learning: Flutter
 - 💞️ I’m looking to collaborate on: Flutter Dev
 - 📫 How to reach me: mail at shrxx.acc@gmail.com
